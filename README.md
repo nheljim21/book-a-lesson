@@ -28,5 +28,11 @@
 
 ## 📸 Preview
 
-(![Screenshot (39)](https://github.com/user-attachments/assets/5208f724-bea5-4f60-93b2-84519b8cb608)
+![Screenshot (39)](https://github.com/user-attachments/assets/5208f724-bea5-4f60-93b2-84519b8cb608)
 
+---
+
+*CONTACT edisnheljim21@gmail.com FOR MORE INFO*
+**THANKS FOR VISITING**
+
+---
