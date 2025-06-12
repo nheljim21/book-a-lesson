@@ -32,7 +32,9 @@
 
 ---
 
-*CONTACT edisnheljim21@gmail.com FOR MORE INFO*
-**THANKS FOR VISITING**
+*CONTACT edisnheljim21@gmail.com FOR MORE INFO!*
+
+
+**THANKS FOR VISITING!**
 
 ---
