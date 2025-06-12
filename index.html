@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Book a Lesson</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <h1>Book a Lesson</h1>
+      <p>Get one-on-one help from a qualified tutor. Fast, easy, and effective.</p>
+    </header>
+
+    <!-- Replace the action URL below with your Formspree or Calendly link -->
+    <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+      <label for="name">Your Name</label>
+      <input type="text" id="name" name="name" required />
+
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="email" required />
+
+      <label for="subject">Subject</label>
+      <input type="text" id="subject" name="subject" placeholder="e.g. Math, English, Science" required />
+
+      <label for="date">Preferred Date & Time</label>
+      <input type="datetime-local" id="date" name="date" required />
+
+      <label for="message">Any Notes?</label>
+      <textarea id="message" name="message" rows="4" placeholder="Optional..."></textarea>
+
+      <button type="submit">Book Lesson</button>
+    </form>
+  </div>
+
+</body>
+</html>
